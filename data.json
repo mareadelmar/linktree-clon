@@ -1,0 +1,23 @@
+[
+    {
+        "name": "github",
+        "icon": "https://localhost:3000/images/github.svg",
+        "url": "http://github.com"
+    },
+    {
+        "name": "instagran",
+        "icon": "https://localhost:3000/images/instagram.svg",
+        "url": "https://instagram.com"
+    },
+    {
+        "name": "pedacitos",
+        "icon": "https://localhost:3000/images/pedacitos.svg",
+        "url": "https://todos-son-pedacitos.web.app"
+    },
+    
+    {
+        "name": "linkedin",
+        "icon": "https://localhost:3000/linkedin.svg",
+        "url": "https://linkedin.com"
+    }
+]
